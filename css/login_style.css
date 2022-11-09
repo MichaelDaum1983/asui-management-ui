@@ -1,0 +1,37 @@
+/*
+ * Copyright (c) 2022. Michael Daum, Dachshund-Development with the Approval of BouMatic, Günter Korthauer, Technical Director Europe
+ */
+
+body {
+    font-family: myriad-pro,Arial,sans-serif;
+    line-height: 1.5;
+    font-size: 12px;
+    height: 100%;
+    margin: 0 -5px;
+    background: url("../img/01.png") no-repeat center center fixed;
+    background-size: cover;
+
+}
+
+.login {
+    position: absolute;
+    margin: auto;
+    padding: 0px 20px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    text-align: center;
+    border: burlywood;
+    border-style: ridge;
+    background-color: white;
+
+}
+#login_data {
+    max-width: 200px;
+    float:right;
+    margin-left: 20px;
+}

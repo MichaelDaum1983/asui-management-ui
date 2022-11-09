@@ -1,0 +1,31 @@
+[13-Dec-2017 13:38:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to undefined function f() in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\inc_debug.php:11
+Stack trace:
+#0 C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\backend.php(3): include_once()
+#1 {main}
+  thrown in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\inc_debug.php on line 11
+[13-Dec-2017 13:39:38 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to undefined function f() in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\inc_debug.php:11
+Stack trace:
+#0 C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\backend.php(3): include_once()
+#1 {main}
+  thrown in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\inc_debug.php on line 11
+[08-Jan-2018 23:07:22 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to undefined function form_add_pa() in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\be_modifydata.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\be_modifydata.php on line 14
+[08-Jan-2018 23:07:49 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php on line 103
+[08-Jan-2018 23:07:59 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php on line 103
+[08-Jan-2018 23:08:04 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php on line 103
+[08-Jan-2018 23:08:07 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php on line 103
+[08-Jan-2018 23:08:08 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\f_be_modifydata.php on line 103
+[08-Jan-2018 23:10:23 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to undefined function form_add_pa() in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\be_modifydata.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\be_modifydata.php on line 14
+[08-Jan-2018 23:10:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to undefined function form_add_pa() in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\be_modifydata.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\be_modifydata.php on line 14
+[08-Jan-2018 23:12:22 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\functions\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\functions\f_be_modifydata.php on line 103
+[08-Jan-2018 23:12:25 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\functions\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\functions\f_be_modifydata.php on line 103
+[08-Jan-2018 23:15:31 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\functions\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\functions\f_be_modifydata.php on line 103
+[08-Jan-2018 23:15:43 Europe/Paris] PHP Fatal error:  Cannot redeclare submit_changes() (previously declared in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\functions\f_be_modifydata.php:104) in C:\Program Files (x86)\EasyPHP-Devserver-16.1\eds-www\test\functions\f_be_modifydata.php on line 103
